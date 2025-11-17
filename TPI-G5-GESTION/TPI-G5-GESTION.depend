@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1763377949 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\lotedemarcas.cpp
+	<iostream>
+	"lotedeMarcas.h"
+
+1763378133 c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\lotedemarcas.h
+	<iostream>
+
+1763378299 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\lotedeproductos.cpp
+	<iostream>
+	"loteDeProductos.h"
+
+1763378338 c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\lotedeproductos.h
+	<iostream>
+
+1763378540 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\lotedeformasdepago.cpp
+	<iostream>
+	"loteDeFormasDePago.h"
+
+1763378540 c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\lotedeformasdepago.h
+	<iostream>
+
+1763378830 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\lotedeventas.cpp
+	<iostream>
+	"loteDeVentas.h"
+
+1763378830 c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\lotedeventas.h
+	<iostream>
+
+1763378830 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\mostrarreportes.cpp
+	<iostream>
+	"mostrarReportes.h"
+	"recaudacionPorProducto.h"
+	"porcentajeDeVentasPorFP.h"
+	"ventasPorMarcayPorFP.h"
+	"productosSinVentas.h"
+	"top10ClientesMasSorteos.h"
+
+1762725927 c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\mostrarreportes.h
+
+1763379569 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\main.cpp
+	<iostream>
+	"lotedeMarcas.h"
+	"loteDeProductos.h"
+	"loteDeFormasDePago.h"
+	"loteDeVentas.h"
+	"mostrarReportes.h"
+	<locale>
+
+1762726564 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\recaudacionporproducto.cpp
+	<iostream>
+	"recaudacionPorProducto.h"
+
+1762726564 c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\recaudacionporproducto.h
+
+1762726765 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\porcentajedeventasporfp.cpp
+	<iostream>
+	"porcentajeDeVentasPorFP.h"
+
+1762726765 c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\porcentajedeventasporfp.h
+
+1762726972 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\ventaspormarcayporfp.cpp
+	<iostream>
+	"ventasPorMarcayPorFP.h"
+
+1762726972 c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\ventaspormarcayporfp.h
+
+1762727277 c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\productossinventas.h
+
+1762727277 c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\top10clientesmassorteos.h
+
+1762727277 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\productossinventas.cpp
+	<iostream>
+	"productosSinVentas.h"
+
+1762727277 source:c:\utn\1er cuatrimestre\programacion 1\2025 2c\tpigestion2025\tpi-g5-gestion\top10clientesmassorteo.cpp
+	<iostream>
+	"top10ClientesMasSorteos.h"
+
