@@ -1,0 +1,6 @@
+#ifndef MOSTRARREPORTES_H_INCLUDED
+#define MOSTRARREPORTES_H_INCLUDED
+
+    void mostrarReportes();
+
+#endif // MOSTRARREPORTES_H_INCLUDED
